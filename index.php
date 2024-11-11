@@ -1,4 +1,5 @@
 <?php
+echo 11;die;
 /**
  * CodeIgniter
  *
