@@ -1,5 +1,4 @@
 <?php
-echo 5551;die;
 /**
  * CodeIgniter
  *
