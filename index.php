@@ -1,4 +1,5 @@
 <?php
+echo 'local-push';die;
 /**
  * CodeIgniter
  *
